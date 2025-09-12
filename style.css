@@ -1,0 +1,13 @@
+.head{
+    height : 100px;
+    width : 100px;
+    border : 2px solid black;
+}
+.menu{
+   height : 500px;
+   border : 2px solid black;
+}
+.foot{
+    height : 200px;
+    border : 2px solid black;
+}
